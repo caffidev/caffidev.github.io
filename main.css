@@ -8,8 +8,17 @@ html{
   height: 100%;
   width: 100%;
 }
+.dark-blue-1{
+  color: #37474f;
+}
+.center{
+  text-align: center;
+}
+nav ul, footer ul {
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+}
 body{
-  background: #D9D6CA no-repeat center bottom;
+  background: #263238 no-repeat center bottom;
   color: #FFF;
   font: normal 16px/1.2 unseen,sans-serif;
   margin:0;
