@@ -18,8 +18,9 @@ nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 body{
-  background: #fefcea no-repeat center bottom;
-  background: radial-gradient(circle at center, #f9eec7, #bbffff, #bbf0ff)
+  background: radial-gradient(ellipse at bottom, #ffffff, #bbffff, #bbf0ff);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   color: #FFF;
   font: normal 16px/1.2 unseen,sans-serif;
   margin:0;
